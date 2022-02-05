@@ -1,1 +1,5 @@
-// want to edit the class in VS Code
+public class SkillDemo {
+    public static boolean isEven(int n) {
+        return n % 2 == 0;
+    }
+}
