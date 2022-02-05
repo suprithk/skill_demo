@@ -4,7 +4,7 @@ import org.junit.*;
 public class SkillDemoTest {
     @Test
     public void testEven() {
-        assertTrue(SkillDemo.isEven(5)); // should be false as 5 is odd
+        assertTrue(SkillDemo.isEven(4)); // should be true now
     }
 }
 
